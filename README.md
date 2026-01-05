@@ -1,16 +1,4 @@
-# 🏥 CLINOVA - Enterprise Hospital ERP
-> **A Role-Based, Secure, and Data-Driven Hospital Management System.**
-> *Production-Ready • Mobile Responsive • Security First*
-
-![Clinova Dashboard](https://via.placeholder.com/800x400?text=CLINOVA+Dashboard+Preview) 
-*(Replace with actual screenshot)*
-
----
-
-## 🚀 Overview
-**CLINOVA** is a modern ERP solution designed to digitize hospital operations. Unlike traditional CRUD apps, it implements complex medical workflows like **OPD Queue Management**, **Inventory FIFO Logic**, and **Real-time Bed Allocation**.
-
-Built with a focus on **Data Security (RLS)** and **Actionable Analytics**, ensuring that sensitive patient data remains protected while Admins get a bird's-eye view of operations.
+ CLINOVA 
 
 ---
 
